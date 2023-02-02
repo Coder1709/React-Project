@@ -30,3 +30,22 @@ function App() {
 
 **//5) Show the component on the screen
  root.render(<App />)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <h2>to solve the node error**</h2>
+sudo apt-get remove nodejs
+> sudo apt-get remove npm
+> sudo rm /usr/local/bin/node
+> sudo rm /usr/local/bin/npm
+> sudo apt-get install nodejs
+> sudo apt-get install npm
+> 
+> 
+> 
+> sudo npm install n -g
+> sudo n stable
