@@ -1,0 +1,28 @@
+.app {
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+button{
+    background-color: lightgreen;
+    border: 2px solid green;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 10px;
+    width:300px;
+    
+}
+
+.animal-list{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:center;
+
+
+
+
+}
